@@ -10,11 +10,11 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享编程',
-  HERO_TITLE_2: '与思维认知',
-  HERO_TITLE_3: 'TANGLY1024.COM',
-  HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HERO_TITLE_1: '勇蜜聚集地',
+  HERO_TITLE_2: '与詹黑前哨战',
+  HERO_TITLE_3: '“Kyire,give me your ring?!”',
+  HERO_TITLE_4: 'BREAKING NEWS',
+  HERO_TITLE_5: '决定4.0，慕斯远走丹佛高原',
   HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
@@ -30,7 +30,7 @@ const CONFIG = {
     '🏃 智能轮休行动派>>',
     '🏠 垫脚踢裆小能手>>',
     '🤖️ 周二taco爱好者>>',
-    '🧱 球队团灭发动机>>'
+    '🧱 球队团灭发动机>>' 
   ],
   INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
